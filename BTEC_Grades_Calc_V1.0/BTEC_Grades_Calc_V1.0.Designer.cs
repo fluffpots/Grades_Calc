@@ -109,7 +109,13 @@ namespace BTEC_Grades_Calc_V1._0
             "9",
             "10",
             "11",
-            "12"});
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18"});
             this.comBoxPasses.Location = new System.Drawing.Point(147, 183);
             this.comBoxPasses.Name = "comBoxPasses";
             this.comBoxPasses.Size = new System.Drawing.Size(76, 33);
@@ -134,7 +140,13 @@ namespace BTEC_Grades_Calc_V1._0
             "9",
             "10",
             "11",
-            "12"});
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18"});
             this.comBoxMerits.Location = new System.Drawing.Point(147, 244);
             this.comBoxMerits.Name = "comBoxMerits";
             this.comBoxMerits.Size = new System.Drawing.Size(76, 33);
@@ -159,7 +171,13 @@ namespace BTEC_Grades_Calc_V1._0
             "9",
             "10",
             "11",
-            "12"});
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18"});
             this.comBoxDistinctions.Location = new System.Drawing.Point(147, 308);
             this.comBoxDistinctions.Name = "comBoxDistinctions";
             this.comBoxDistinctions.Size = new System.Drawing.Size(76, 33);
